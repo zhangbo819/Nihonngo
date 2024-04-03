@@ -1,4 +1,4 @@
-# Nihonko
+# Nihonngo
 
 ## 一
 
